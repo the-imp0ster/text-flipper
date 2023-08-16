@@ -2,6 +2,8 @@
 
 ![mfers](textFlipperDeluxe.gif)
 
+*Not yet optimized for mobile*
+
 ### Text Flipper Deluxe is a fun app I put together for some DOM practice one rainy August evening.
 
 ---
